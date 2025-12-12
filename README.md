@@ -10,10 +10,9 @@ The app fetches dynamic resume data from an API and allows the user to personali
   <img src="https://github.com/user-attachments/assets/1db81229-a3bd-4cd0-8952-8b0b6cc72d5f" width="45%" />
 </p>
 
-Youtube Video Link: 
+Youtube Video Link: https://youtube.com/shorts/jvuPto3uPNg?feature=share
 
 Apk File Link: https://drive.google.com/drive/folders/1wVyUGJSgW3C0r62vHfiJUuNGOSp_ksLY?usp=drive_link
-
 
 ---
 
